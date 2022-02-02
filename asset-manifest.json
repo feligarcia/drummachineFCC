@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drummachineFCC/static/css/main.67c4f81c.css",
+    "main.js": "/drummachineFCC/static/js/main.b5373ae0.js",
+    "static/media/platillosbig.mp3": "/drummachineFCC/static/media/platillosbig.35d2aebc3f3180f526be.mp3",
+    "static/media/platillo.mp3": "/drummachineFCC/static/media/platillo.341295e30e3cd963e6f4.mp3",
+    "static/media/saxofon.mp3": "/drummachineFCC/static/media/saxofon.30c0439c5ea97b75d00c.mp3",
+    "static/media/xilofono.mp3": "/drummachineFCC/static/media/xilofono.b7b7ef23bdc92ac5efd0.mp3",
+    "static/media/trompeta.mp3": "/drummachineFCC/static/media/trompeta.1f4682ab10e858fa9e23.mp3",
+    "static/media/tambor.mp3": "/drummachineFCC/static/media/tambor.794ab5ecd27502b2de56.mp3",
+    "static/media/guitar.mp3": "/drummachineFCC/static/media/guitar.3b5872ba41730718529f.mp3",
+    "static/media/guitarlage.mp3": "/drummachineFCC/static/media/guitarlage.79fe71ba2d0ae5865150.mp3",
+    "static/media/explosion.mp3": "/drummachineFCC/static/media/explosion.4f248cf317c7db773812.mp3",
+    "index.html": "/drummachineFCC/index.html",
+    "main.67c4f81c.css.map": "/drummachineFCC/static/css/main.67c4f81c.css.map",
+    "main.b5373ae0.js.map": "/drummachineFCC/static/js/main.b5373ae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c4f81c.css",
+    "static/js/main.b5373ae0.js"
+  ]
+}
